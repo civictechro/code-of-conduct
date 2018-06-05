@@ -15,8 +15,7 @@ Invităm astfel pe toți cei care alcătuiesc comunitatea CivicTech România să
 
 
 ***
-*Acest cod de conduită este distribuit sub licența [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/). Documentul este în continuă actualizare, iar porțiuni din acest text au fost inspirate și adaptate din Codul de Conduită al [Citizens of Conduct](http://citizencodeofconduct.org/) și [Free Software Foundation Europe](https://fsfe.org/). 
-precum și din interacțiunile care s-au dovedit eficiente în cadrul organizației.*
+*Acest cod de conduită este în continuă actualizare și este sub licența deschisă. 
 
 ## Detalii tehnice
 
