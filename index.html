@@ -18,10 +18,10 @@
    <div class="outer_container">
     <div class="inner_container">
 
-      <a href="#introduction"><h3>Strategii pentru Servicii Digitale</h3></a>
+      <a href="#introduction"><h3>Cod de Conduită</h3></a>
       <ul class="nav">
         {% for play in site.plays %}
-          <li class="play_square"><a href="#play{{ play.play_number }}" title="Vezi strategie {{ play.play_number }}: {{ play.title }}">{{ play.play_number }}</a></li>
+          <li class="play_square"><a href="#play{{ play.play_number }}" title="Vezi secțiune {{ play.play_number }}: {{ play.title }}">{{ play.play_number }}</a></li>
         {% endfor %}
       </ul>
       <div id="menu_icon">
@@ -38,10 +38,10 @@
       {% capture introduction %}{% include introduction.md %}{% endcapture %}
       {{ introduction | markdownify }}
       <div class="button">
-        <a href="#plays_index_anchor" title="Vezi strategii">Vezi strategii</a>
+        <a href="#plays_index_anchor" title="Vezi secțiune">Vezi secțiuni</a>
       </div>
       <div class="button">
-        <a href="https://github.com/civictechro/playbook#readme" title="Vizitează GitHub pentru a ajuta la îmbunătățirea conținutului">Contribuie și tu</a>
+        <a href="https://github.com/civictechro/code-of-conduct#readme" title="Vizitează GitHub pentru a ajuta la îmbunătățirea conținutului">Contribuie și tu</a>
       </div>
     </div>
   </div>
@@ -51,16 +51,16 @@
   <div class="outer_container">
     <div class="inner_container">
       <a class="anchor_offset" id="plays_index_anchor"></a>
-      <h2>Strategii pentru Servicii Digitale</h2>
+      <h2>Cod de Conduită</h2>
       <div class="columns">
         <ol>
         {% for play in site.plays %}
-          <li><a href="#play{{ play.play_number }}" title="Vezi strategie {{ play.play_number }}">{{ play.title }}</a></li>
+          <li><a href="#play{{ play.play_number }}" title="Vezi secțiune {{ play.play_number }}">{{ play.title }}</a></li>
         {% endfor %}
         </ol>
       </div>
       <div class="button">
-        <a href="#play1" title="Vezi strategii în detaliu">În detaliu</a>
+        <a href="#play1" title="Vezi secțiuni în detaliu">În detaliu</a>
       </div>
     </div>
   </div>
@@ -70,7 +70,7 @@
   {% for play in site.plays %}
     <div class="inner_container">
       <a class="anchor_offset" id="play{{ play.play_number }}"></a>
-      <h6>STRATEGIE {{ play.play_number }}</h6>
+      <h6>Secțiune {{ play.play_number }}</h6>
       <h2 class="display">{{ play.title }}</h2>
 
       {{ play.output }}
