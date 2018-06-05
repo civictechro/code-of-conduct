@@ -1,6 +1,6 @@
 # Cod de Conduită
 
-CivicTech România este o comunitate reunită din medii profesionale diferite în care diversitatea și  deschiderea sunt apreciate înainte de orice. 
+CivicTech România este o comunitate reunită din medii profesionale diferite care prețuiește diversitatea și deschiderea.
 
 Obiectivul principal al comunității CivicTech România este să fie deschisă unui număr cât mai mare de persoane din cele mai variate și diverse medii posibile. Ca atare, ne angajăm să oferim un mediu prietenos, sigur și primitor pentru toți cei reuniți sub această comunitate, indiferent de sex, orientare sexuală, abilități, etnie, statut socio-economic sau religie (ori lipsa acesteia).
 
