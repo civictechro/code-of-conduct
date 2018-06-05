@@ -1,8 +1,11 @@
-# Strategii pentru Servicii Digitale
+# Cod de Conduită
 
-CivicTech România este comunitatea celor care lucrează împreună ca să modernizeze România, folosind potențialul tehnologiei deschise (Open Source) și talentul specialiștilor din IT&C pentru a dezvolta noua generație de servicii digitale de utilitate publică. Mai multe detalii despre proiectele CivicTech România pe [civictech.ro](https://civictech.ro/).
+CivicTech România este o comunitate reunită din medii profesionale diferite în care diversitatea și  deschiderea sunt apreciate înainte de orice. Obiectivul principal al comunității CivicTech România este să fie deschisă unui număr cât mai mare de persoane din cele mai variate și diverse medii posibile. Ca atare, ne angajăm să oferim un mediu prietenos, sigur și primitor pentru toți cei reuniți sub această comunitate, indiferent de sex, orientare sexuală, abilități, etnie, statut socio-economic sau religie (ori lipsa acesteia).
 
-România este pe ultimul loc în Europa în ceea ce privește [gradul de utilizare al serviciilor publice digitale către cetățeni](http://bit.ly/2rpJXPR). Prin strategiile pe care le adoptăm în dezvoltarea proiectelor noastre, credem că putem livra servicii digitale funcționale, moderne, cu un impact pozitiv direct pentru cetățeni. Fiecare proiect dezvoltat în cadrul CivicTech România trebuie să răspundă cerințelor de mai jos, iar acolo unde acest lucru nu este posibil din prisma constrângerilor specifice fiecărui proiect, trebuie tratat ca o excepție de la regulă.
+Acest Cod de conduită conturează așteptările noastre pentru toți cei care fac parte din comunitatea noastră, precum și consecințele pentru un comportament inacceptabil. 
+
+Invităm astfel pe toți cei care alcătuiesc comunitatea CivicTech România să ne ajute să asigurăm experiențe sigure și pozitive pentru toată lumea.
 
 ***
-*Acest document este în continuă actualizare și este dezvoltat folosind ca sursă de inspirație [The US Digital Services Playbook](https://playbook.cio.gov/), [principiile CivicTech România](https://civictech.ro/cine-suntem#principii), cât și metodele de lucru care s-au dovedit eficiente în cadrul organizației.*
+*Acest document este în continuă actualizare și este dezvoltat folosind ca sursă de inspirație [Citizens of Conduct](http://citizencodeofconduct.org/), codul de conduită al [Free Software Foundation Europe](https://fsfe.org/) și [principiile CivicTech România](https://civictech.ro/cine-suntem#principii) care s-au dovedit eficiente în cadrul organizației.
+Codul de conduită este distribuit sub licența [Creative Commons Attribution-ShareAlike].(https://creativecommons.org/licenses/by-sa/3.0/)*
