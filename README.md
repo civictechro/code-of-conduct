@@ -1,7 +1,7 @@
 [![Slack](https://img.shields.io/badge/slack-%23playbook-green.svg)](https://civictechro.slack.com/messages/CAFLVGYJ0/) 
-[![GitHub license](https://img.shields.io/github/license/civictechro/playbook.svg)](https://github.com/civictechro/playbook/blob/master/LICENSE) 
+[![GitHub license](https://img.shields.io/github/license/civictechro/code-of-conduct.svg)](https://github.com/civictechro/code-of-conduct/blob/master/LICENSE) 
 
-[![GitHub issues by-label](https://img.shields.io/github/issues-raw/civictechro/playbook/help%20wanted.svg)](https://github.com/civictechro/playbook/issues) [![GitHub issues by-label](https://img.shields.io/github/issues-raw/civictechro/playbook/good%20first%20task.svg)](https://github.com/civictechro/playbook/issues) 
+[![GitHub issues by-label](https://img.shields.io/github/issues-raw/civictechro/code-of-conduct/help%20wanted.svg)](https://github.com/civictechro/code-of-conduct/issues) [![GitHub issues by-label](https://img.shields.io/github/issues-raw/civictechro/code-of-conduct/good%20first%20task.svg)](https://github.com/civictechro/code-of-conduct/issues) 
 
 # Cod de Conduită
 
@@ -38,7 +38,7 @@ Proiectul folosește [Sass](http://sass-lang.com/ "Link to Learn More About Sass
 
 ## Cum pot propune o schimbare de conținut?
 
-Dacă vrei să propui o schimbare, trimite un [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests"), cu o schimbare într-unul dintre fișierele Markdown. Fiecare strategie se poate găsi în [folderul `_plays`](https://github.com/civictechro/playbook/tree/master/_plays). Introducerea se află în [folderul `_include`](https://github.com/civictechro/playbook/tree/master/_include).
+Dacă vrei să propui o schimbare, trimite un [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests"), cu o schimbare într-unul dintre fișierele Markdown. Fiecare strategie se poate găsi în [folderul `_plays`](https://github.com/civictechro/code-of-conduct/tree/master/_plays). Introducerea se află în [folderul `_include`](https://github.com/civictechro/code-of-conduct/tree/master/_include).
 
 Fișierele se pot edita și direct în browser, fără a fi necesară instalarea de software adițional.
 
