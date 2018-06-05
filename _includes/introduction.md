@@ -8,4 +8,4 @@ Invităm astfel pe toți cei care alcătuiesc comunitatea CivicTech România să
 
 ***
 *Acest document este în continuă actualizare și este dezvoltat folosind ca sursă de inspirație [Citizens of Conduct](http://citizencodeofconduct.org/), codul de conduită al [Free Software Foundation Europe](https://fsfe.org/) și [principiile CivicTech România](https://civictech.ro/cine-suntem#principii) care s-au dovedit eficiente în cadrul organizației.
-Codul de conduită este distribuit sub licența [Creative Commons Attribution-ShareAlike].(https://creativecommons.org/licenses/by-sa/3.0/)*
+Codul de conduită este distribuit sub licența [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/)*
