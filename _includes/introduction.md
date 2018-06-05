@@ -9,4 +9,4 @@ Acest Cod de conduită conturează așteptările noastre pentru toți cei care f
 Invităm astfel pe toți cei care alcătuiesc comunitatea CivicTech România să ne ajute să asigurăm experiențe sigure și pozitive pentru toată lumea.
 
 ***
-*Acest document este în continuă actualizare și este distribuit sub licență deschisă. 
+*Acest document este în continuă actualizare. 
