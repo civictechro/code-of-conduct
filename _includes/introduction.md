@@ -1,6 +1,6 @@
 # Cod de Conduită
 
-CivicTech România este comunitatea celor care lucrează împreună ca să modernizeze România, folosind potențialul tehnologiei deschise (Open Source) și talentul specialiștilor pentru a dezvolta noua generație de servicii digitale de utilitate publică.  
+CivicTech Romania este comunitatea care, prin dialog cu cetățenii și parteneriate cu instituții publice, companii private, organizații non-profit, își propune misiunea de a dezvolta, implementa și promova soluții digitale utile, eficiente și prietenoase pentru cetățean.  
 
 Suntem o comunitate reunită din medii profesionale diferite în care  diversitatea și  deschiderea sunt apreciate înainte de orice.
 
